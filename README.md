@@ -116,11 +116,6 @@ git clone https://github.com/musfirarehan/Food-Ordering-System-Raylib.git
 
 4. Build and run the project.
 
-## 👩‍💻 Team Members
-
-* Musfira Rehan – Core System Architecture & Order Flow Design
-* Hooria Ali – User Interaction & Business Logic
-* Insiya Murad – Data Management & System Configuration
 
 ## 📚 What I Learned
 
